@@ -51,5 +51,17 @@ def max_marks(list1):
 
 ## Output:
 
+i)
+
+![py xp 3a i](https://user-images.githubusercontent.com/118707521/235308912-05b915a2-02fa-477e-80cb-e8fe614e39f4.png)
+
+ii)
+
+![py xp 3a ii](https://user-images.githubusercontent.com/118707521/235308941-41e87811-6d75-40d2-aa08-96c419b40f68.png)
+
+iii)
+
+![py xp 3a iii](https://user-images.githubusercontent.com/118707521/235308958-5cf49571-881d-4b4b-8cf1-f2320b41482d.png)
+
 ## Result:
 Thus the program to find the maximum of given numbers from the list is written and verified using python programming.
